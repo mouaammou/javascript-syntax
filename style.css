@@ -1,0 +1,39 @@
+section {
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 39px;
+}
+
+p {
+    font-family: serif;
+    font-size: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #45a049;
+    margin-top: 2px;
+}
+
+h2 {
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+}
